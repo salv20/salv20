@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 💬 Ask me about **Tailwind,Javascript,React**
+- 💬 Ask me about **HTML, CSS,Tailwind,Javascript,React, Nextjs, Firebase**
 
 - 📫 How to reach me **salvationamoke@gmail.com**
 
