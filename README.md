@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/salvati75317889" target="blank"><img src="https://img.shields.io/twitter/follow/salvati75317889?logo=twitter&style=for-the-badge" alt="salvati75317889" /></a> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **HTML, CSS,Tailwind,Javascript,React, Nextjs, Firebase**
+- 💬 Ask me about **HTML, CSS,Tailwind,Javascript,React,  Firebase, Nextjs**
 
 - 📫 How to reach me **salvationamoke@gmail.com**
 
